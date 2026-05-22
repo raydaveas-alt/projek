@@ -1,0 +1,1042 @@
+[
+    {
+        "no_lantai": 1,
+        "nama_lokasi": "Hutan Pemula",
+        "is_boss": false,
+        "id_musuh": [
+            "M01",
+            "M02",
+            "M02"
+        ]
+    },
+    {
+        "no_lantai": 2,
+        "nama_lokasi": "Hutan Pemula",
+        "is_boss": false,
+        "id_musuh": [
+            "M01",
+            "M03"
+        ]
+    },
+    {
+        "no_lantai": 3,
+        "nama_lokasi": "Hutan Pemula",
+        "is_boss": false,
+        "id_musuh": [
+            "M02",
+            "M02",
+            "M03",
+            "M03",
+            "M01"
+        ]
+    },
+    {
+        "no_lantai": 4,
+        "nama_lokasi": "Hutan Pemula",
+        "is_boss": false,
+        "id_musuh": [
+            "M01",
+            "M01"
+        ]
+    },
+    {
+        "no_lantai": 5,
+        "nama_lokasi": "Hutan Pemula",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_01",
+            "M03",
+            "M02"
+        ]
+    },
+    {
+        "no_lantai": 6,
+        "nama_lokasi": "Gua Lembap",
+        "is_boss": false,
+        "id_musuh": [
+            "M06",
+            "M05",
+            "M05",
+            "M06"
+        ]
+    },
+    {
+        "no_lantai": 7,
+        "nama_lokasi": "Gua Lembap",
+        "is_boss": false,
+        "id_musuh": [
+            "M06",
+            "M05"
+        ]
+    },
+    {
+        "no_lantai": 8,
+        "nama_lokasi": "Gua Lembap",
+        "is_boss": false,
+        "id_musuh": [
+            "M05",
+            "M04"
+        ]
+    },
+    {
+        "no_lantai": 9,
+        "nama_lokasi": "Gua Lembap",
+        "is_boss": false,
+        "id_musuh": [
+            "M05",
+            "M07"
+        ]
+    },
+    {
+        "no_lantai": 10,
+        "nama_lokasi": "Gua Lembap",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_02",
+            "M07",
+            "M05",
+            "M04"
+        ]
+    },
+    {
+        "no_lantai": 11,
+        "nama_lokasi": "Padang Rumput Angin",
+        "is_boss": false,
+        "id_musuh": [
+            "M09",
+            "M08",
+            "M09"
+        ]
+    },
+    {
+        "no_lantai": 12,
+        "nama_lokasi": "Padang Rumput Angin",
+        "is_boss": false,
+        "id_musuh": [
+            "M08",
+            "M10",
+            "M08",
+            "M09"
+        ]
+    },
+    {
+        "no_lantai": 13,
+        "nama_lokasi": "Padang Rumput Angin",
+        "is_boss": false,
+        "id_musuh": [
+            "M10",
+            "M09",
+            "M08",
+            "M09"
+        ]
+    },
+    {
+        "no_lantai": 14,
+        "nama_lokasi": "Padang Rumput Angin",
+        "is_boss": false,
+        "id_musuh": [
+            "M08",
+            "M10",
+            "M10",
+            "M10",
+            "M10"
+        ]
+    },
+    {
+        "no_lantai": 15,
+        "nama_lokasi": "Padang Rumput Angin",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_03",
+            "M08",
+            "M10",
+            "M10"
+        ]
+    },
+    {
+        "no_lantai": 16,
+        "nama_lokasi": "Reruntuhan Kuno",
+        "is_boss": false,
+        "id_musuh": [
+            "M11",
+            "M13"
+        ]
+    },
+    {
+        "no_lantai": 17,
+        "nama_lokasi": "Reruntuhan Kuno",
+        "is_boss": false,
+        "id_musuh": [
+            "M13",
+            "M11",
+            "M11",
+            "M11"
+        ]
+    },
+    {
+        "no_lantai": 18,
+        "nama_lokasi": "Reruntuhan Kuno",
+        "is_boss": false,
+        "id_musuh": [
+            "M11",
+            "M11",
+            "M13",
+            "M11"
+        ]
+    },
+    {
+        "no_lantai": 19,
+        "nama_lokasi": "Reruntuhan Kuno",
+        "is_boss": false,
+        "id_musuh": [
+            "M12",
+            "M11"
+        ]
+    },
+    {
+        "no_lantai": 20,
+        "nama_lokasi": "Reruntuhan Kuno",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_04",
+            "M11",
+            "M11",
+            "M11"
+        ]
+    },
+    {
+        "no_lantai": 21,
+        "nama_lokasi": "Kastil Terbengkalai",
+        "is_boss": false,
+        "id_musuh": [
+            "M15",
+            "M16",
+            "M16",
+            "M16"
+        ]
+    },
+    {
+        "no_lantai": 22,
+        "nama_lokasi": "Kastil Terbengkalai",
+        "is_boss": false,
+        "id_musuh": [
+            "M15",
+            "M16"
+        ]
+    },
+    {
+        "no_lantai": 23,
+        "nama_lokasi": "Kastil Terbengkalai",
+        "is_boss": false,
+        "id_musuh": [
+            "M15",
+            "M14",
+            "M14"
+        ]
+    },
+    {
+        "no_lantai": 24,
+        "nama_lokasi": "Kastil Terbengkalai",
+        "is_boss": false,
+        "id_musuh": [
+            "M16",
+            "M16",
+            "M14"
+        ]
+    },
+    {
+        "no_lantai": 25,
+        "nama_lokasi": "Kastil Terbengkalai",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_05",
+            "M14",
+            "M16",
+            "M15"
+        ]
+    },
+    {
+        "no_lantai": 26,
+        "nama_lokasi": "Gurun Pasir Panas",
+        "is_boss": false,
+        "id_musuh": [
+            "M19",
+            "M19",
+            "M18"
+        ]
+    },
+    {
+        "no_lantai": 27,
+        "nama_lokasi": "Gurun Pasir Panas",
+        "is_boss": false,
+        "id_musuh": [
+            "M18",
+            "M17",
+            "M19",
+            "M18"
+        ]
+    },
+    {
+        "no_lantai": 28,
+        "nama_lokasi": "Gurun Pasir Panas",
+        "is_boss": false,
+        "id_musuh": [
+            "M17",
+            "M17",
+            "M17",
+            "M19"
+        ]
+    },
+    {
+        "no_lantai": 29,
+        "nama_lokasi": "Gurun Pasir Panas",
+        "is_boss": false,
+        "id_musuh": [
+            "M19",
+            "M17",
+            "M19",
+            "M18"
+        ]
+    },
+    {
+        "no_lantai": 30,
+        "nama_lokasi": "Gurun Pasir Panas",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_06",
+            "M18",
+            "M18",
+            "M18"
+        ]
+    },
+    {
+        "no_lantai": 31,
+        "nama_lokasi": "Oasis Tersembunyi",
+        "is_boss": false,
+        "id_musuh": [
+            "M21",
+            "M20",
+            "M21",
+            "M20",
+            "M21"
+        ]
+    },
+    {
+        "no_lantai": 32,
+        "nama_lokasi": "Oasis Tersembunyi",
+        "is_boss": false,
+        "id_musuh": [
+            "M21",
+            "M21",
+            "M21",
+            "M20"
+        ]
+    },
+    {
+        "no_lantai": 33,
+        "nama_lokasi": "Oasis Tersembunyi",
+        "is_boss": false,
+        "id_musuh": [
+            "M20",
+            "M21",
+            "M20",
+            "M20",
+            "M20"
+        ]
+    },
+    {
+        "no_lantai": 34,
+        "nama_lokasi": "Oasis Tersembunyi",
+        "is_boss": false,
+        "id_musuh": [
+            "M21",
+            "M20"
+        ]
+    },
+    {
+        "no_lantai": 35,
+        "nama_lokasi": "Oasis Tersembunyi",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_07",
+            "M21"
+        ]
+    },
+    {
+        "no_lantai": 36,
+        "nama_lokasi": "Lembah Racun",
+        "is_boss": false,
+        "id_musuh": [
+            "M24",
+            "M23"
+        ]
+    },
+    {
+        "no_lantai": 37,
+        "nama_lokasi": "Lembah Racun",
+        "is_boss": false,
+        "id_musuh": [
+            "M22",
+            "M23",
+            "M24"
+        ]
+    },
+    {
+        "no_lantai": 38,
+        "nama_lokasi": "Lembah Racun",
+        "is_boss": false,
+        "id_musuh": [
+            "M23",
+            "M22",
+            "M24"
+        ]
+    },
+    {
+        "no_lantai": 39,
+        "nama_lokasi": "Lembah Racun",
+        "is_boss": false,
+        "id_musuh": [
+            "M23",
+            "M23",
+            "M23"
+        ]
+    },
+    {
+        "no_lantai": 40,
+        "nama_lokasi": "Lembah Racun",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_08",
+            "M24",
+            "M23"
+        ]
+    },
+    {
+        "no_lantai": 41,
+        "nama_lokasi": "Hutan Berbisik",
+        "is_boss": false,
+        "id_musuh": [
+            "M26",
+            "M25",
+            "M25"
+        ]
+    },
+    {
+        "no_lantai": 42,
+        "nama_lokasi": "Hutan Berbisik",
+        "is_boss": false,
+        "id_musuh": [
+            "M25",
+            "M26",
+            "M26",
+            "M25",
+            "M26"
+        ]
+    },
+    {
+        "no_lantai": 43,
+        "nama_lokasi": "Hutan Berbisik",
+        "is_boss": false,
+        "id_musuh": [
+            "M26",
+            "M25",
+            "M26"
+        ]
+    },
+    {
+        "no_lantai": 44,
+        "nama_lokasi": "Hutan Berbisik",
+        "is_boss": false,
+        "id_musuh": [
+            "M25",
+            "M25",
+            "M25",
+            "M26",
+            "M25"
+        ]
+    },
+    {
+        "no_lantai": 45,
+        "nama_lokasi": "Hutan Berbisik",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_09",
+            "M26",
+            "M26",
+            "M26"
+        ]
+    },
+    {
+        "no_lantai": 46,
+        "nama_lokasi": "Pegunungan Es",
+        "is_boss": false,
+        "id_musuh": [
+            "M29",
+            "M27",
+            "M28"
+        ]
+    },
+    {
+        "no_lantai": 47,
+        "nama_lokasi": "Pegunungan Es",
+        "is_boss": false,
+        "id_musuh": [
+            "M27",
+            "M29",
+            "M28",
+            "M29"
+        ]
+    },
+    {
+        "no_lantai": 48,
+        "nama_lokasi": "Pegunungan Es",
+        "is_boss": false,
+        "id_musuh": [
+            "M29",
+            "M27",
+            "M29",
+            "M29",
+            "M29"
+        ]
+    },
+    {
+        "no_lantai": 49,
+        "nama_lokasi": "Pegunungan Es",
+        "is_boss": false,
+        "id_musuh": [
+            "M29",
+            "M28",
+            "M28"
+        ]
+    },
+    {
+        "no_lantai": 50,
+        "nama_lokasi": "Pegunungan Es",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_10",
+            "M28",
+            "M29"
+        ]
+    },
+    {
+        "no_lantai": 51,
+        "nama_lokasi": "Kuil Beku",
+        "is_boss": false,
+        "id_musuh": [
+            "M28",
+            "M28",
+            "M28"
+        ]
+    },
+    {
+        "no_lantai": 52,
+        "nama_lokasi": "Kuil Beku",
+        "is_boss": false,
+        "id_musuh": [
+            "M30",
+            "M30"
+        ]
+    },
+    {
+        "no_lantai": 53,
+        "nama_lokasi": "Kuil Beku",
+        "is_boss": false,
+        "id_musuh": [
+            "M28",
+            "M30"
+        ]
+    },
+    {
+        "no_lantai": 54,
+        "nama_lokasi": "Kuil Beku",
+        "is_boss": false,
+        "id_musuh": [
+            "M30",
+            "M28",
+            "M29",
+            "M28",
+            "M28"
+        ]
+    },
+    {
+        "no_lantai": 55,
+        "nama_lokasi": "Kuil Beku",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_11",
+            "M30",
+            "M29",
+            "M30"
+        ]
+    },
+    {
+        "no_lantai": 56,
+        "nama_lokasi": "Danau Kaca",
+        "is_boss": false,
+        "id_musuh": [
+            "M32",
+            "M31"
+        ]
+    },
+    {
+        "no_lantai": 57,
+        "nama_lokasi": "Danau Kaca",
+        "is_boss": false,
+        "id_musuh": [
+            "M32",
+            "M31",
+            "M32",
+            "M31"
+        ]
+    },
+    {
+        "no_lantai": 58,
+        "nama_lokasi": "Danau Kaca",
+        "is_boss": false,
+        "id_musuh": [
+            "M32",
+            "M31",
+            "M31"
+        ]
+    },
+    {
+        "no_lantai": 59,
+        "nama_lokasi": "Danau Kaca",
+        "is_boss": false,
+        "id_musuh": [
+            "M31",
+            "M31"
+        ]
+    },
+    {
+        "no_lantai": 60,
+        "nama_lokasi": "Danau Kaca",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_12",
+            "M32",
+            "M32",
+            "M31"
+        ]
+    },
+    {
+        "no_lantai": 61,
+        "nama_lokasi": "Gunung Berapi",
+        "is_boss": false,
+        "id_musuh": [
+            "M35",
+            "M35",
+            "M35"
+        ]
+    },
+    {
+        "no_lantai": 62,
+        "nama_lokasi": "Gunung Berapi",
+        "is_boss": false,
+        "id_musuh": [
+            "M35",
+            "M33",
+            "M33",
+            "M34",
+            "M35"
+        ]
+    },
+    {
+        "no_lantai": 63,
+        "nama_lokasi": "Gunung Berapi",
+        "is_boss": false,
+        "id_musuh": [
+            "M35",
+            "M35",
+            "M34"
+        ]
+    },
+    {
+        "no_lantai": 64,
+        "nama_lokasi": "Gunung Berapi",
+        "is_boss": false,
+        "id_musuh": [
+            "M33",
+            "M35",
+            "M34",
+            "M34"
+        ]
+    },
+    {
+        "no_lantai": 65,
+        "nama_lokasi": "Gunung Berapi",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_13",
+            "M35",
+            "M34",
+            "M34"
+        ]
+    },
+    {
+        "no_lantai": 66,
+        "nama_lokasi": "Lautan Lahar",
+        "is_boss": false,
+        "id_musuh": [
+            "M37",
+            "M35",
+            "M35",
+            "M35"
+        ]
+    },
+    {
+        "no_lantai": 67,
+        "nama_lokasi": "Lautan Lahar",
+        "is_boss": false,
+        "id_musuh": [
+            "M35",
+            "M36"
+        ]
+    },
+    {
+        "no_lantai": 68,
+        "nama_lokasi": "Lautan Lahar",
+        "is_boss": false,
+        "id_musuh": [
+            "M37",
+            "M36",
+            "M37",
+            "M36",
+            "M37"
+        ]
+    },
+    {
+        "no_lantai": 69,
+        "nama_lokasi": "Lautan Lahar",
+        "is_boss": false,
+        "id_musuh": [
+            "M37",
+            "M35",
+            "M37",
+            "M37",
+            "M35"
+        ]
+    },
+    {
+        "no_lantai": 70,
+        "nama_lokasi": "Lautan Lahar",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_14",
+            "M37",
+            "M35"
+        ]
+    },
+    {
+        "no_lantai": 71,
+        "nama_lokasi": "Gua Kristal",
+        "is_boss": false,
+        "id_musuh": [
+            "M39",
+            "M39"
+        ]
+    },
+    {
+        "no_lantai": 72,
+        "nama_lokasi": "Gua Kristal",
+        "is_boss": false,
+        "id_musuh": [
+            "M38",
+            "M39",
+            "M40",
+            "M38"
+        ]
+    },
+    {
+        "no_lantai": 73,
+        "nama_lokasi": "Gua Kristal",
+        "is_boss": false,
+        "id_musuh": [
+            "M38",
+            "M40",
+            "M40",
+            "M38"
+        ]
+    },
+    {
+        "no_lantai": 74,
+        "nama_lokasi": "Gua Kristal",
+        "is_boss": false,
+        "id_musuh": [
+            "M38",
+            "M39",
+            "M39"
+        ]
+    },
+    {
+        "no_lantai": 75,
+        "nama_lokasi": "Gua Kristal",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_15",
+            "M38",
+            "M38",
+            "M40"
+        ]
+    },
+    {
+        "no_lantai": 76,
+        "nama_lokasi": "Jembatan Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M42",
+            "M41"
+        ]
+    },
+    {
+        "no_lantai": 77,
+        "nama_lokasi": "Jembatan Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M42",
+            "M41",
+            "M42",
+            "M42"
+        ]
+    },
+    {
+        "no_lantai": 78,
+        "nama_lokasi": "Jembatan Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M41",
+            "M41",
+            "M41"
+        ]
+    },
+    {
+        "no_lantai": 79,
+        "nama_lokasi": "Jembatan Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M42",
+            "M42",
+            "M41"
+        ]
+    },
+    {
+        "no_lantai": 80,
+        "nama_lokasi": "Jembatan Langit",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_16",
+            "M42",
+            "M41",
+            "M41"
+        ]
+    },
+    {
+        "no_lantai": 81,
+        "nama_lokasi": "Pulau Terapung",
+        "is_boss": false,
+        "id_musuh": [
+            "M44",
+            "M44"
+        ]
+    },
+    {
+        "no_lantai": 82,
+        "nama_lokasi": "Pulau Terapung",
+        "is_boss": false,
+        "id_musuh": [
+            "M43",
+            "M43",
+            "M44",
+            "M43"
+        ]
+    },
+    {
+        "no_lantai": 83,
+        "nama_lokasi": "Pulau Terapung",
+        "is_boss": false,
+        "id_musuh": [
+            "M44",
+            "M44"
+        ]
+    },
+    {
+        "no_lantai": 84,
+        "nama_lokasi": "Pulau Terapung",
+        "is_boss": false,
+        "id_musuh": [
+            "M43",
+            "M44",
+            "M44",
+            "M43",
+            "M44"
+        ]
+    },
+    {
+        "no_lantai": 85,
+        "nama_lokasi": "Pulau Terapung",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_17",
+            "M43",
+            "M44"
+        ]
+    },
+    {
+        "no_lantai": 86,
+        "nama_lokasi": "Dimensi Kesengsaraan",
+        "is_boss": false,
+        "id_musuh": [
+            "M45",
+            "M46"
+        ]
+    },
+    {
+        "no_lantai": 87,
+        "nama_lokasi": "Dimensi Kesengsaraan",
+        "is_boss": false,
+        "id_musuh": [
+            "M45",
+            "M45",
+            "M47",
+            "M47",
+            "M45"
+        ]
+    },
+    {
+        "no_lantai": 88,
+        "nama_lokasi": "Dimensi Kesengsaraan",
+        "is_boss": false,
+        "id_musuh": [
+            "M47",
+            "M47",
+            "M47"
+        ]
+    },
+    {
+        "no_lantai": 89,
+        "nama_lokasi": "Dimensi Kesengsaraan",
+        "is_boss": false,
+        "id_musuh": [
+            "M45",
+            "M47"
+        ]
+    },
+    {
+        "no_lantai": 90,
+        "nama_lokasi": "Dimensi Kesengsaraan",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_18",
+            "M47",
+            "M46",
+            "M46"
+        ]
+    },
+    {
+        "no_lantai": 91,
+        "nama_lokasi": "Kuil Bintang",
+        "is_boss": false,
+        "id_musuh": [
+            "M49",
+            "M49",
+            "M49",
+            "M48"
+        ]
+    },
+    {
+        "no_lantai": 92,
+        "nama_lokasi": "Kuil Bintang",
+        "is_boss": false,
+        "id_musuh": [
+            "M49",
+            "M49",
+            "M48",
+            "M48"
+        ]
+    },
+    {
+        "no_lantai": 93,
+        "nama_lokasi": "Kuil Bintang",
+        "is_boss": false,
+        "id_musuh": [
+            "M48",
+            "M48"
+        ]
+    },
+    {
+        "no_lantai": 94,
+        "nama_lokasi": "Kuil Bintang",
+        "is_boss": false,
+        "id_musuh": [
+            "M49",
+            "M48",
+            "M48",
+            "M49",
+            "M48"
+        ]
+    },
+    {
+        "no_lantai": 95,
+        "nama_lokasi": "Kuil Bintang",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_19",
+            "M48",
+            "M48"
+        ]
+    },
+    {
+        "no_lantai": 96,
+        "nama_lokasi": "Istana Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M51",
+            "M50"
+        ]
+    },
+    {
+        "no_lantai": 97,
+        "nama_lokasi": "Istana Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M50",
+            "M52",
+            "M51",
+            "M51"
+        ]
+    },
+    {
+        "no_lantai": 98,
+        "nama_lokasi": "Istana Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M52",
+            "M52",
+            "M51"
+        ]
+    },
+    {
+        "no_lantai": 99,
+        "nama_lokasi": "Istana Langit",
+        "is_boss": false,
+        "id_musuh": [
+            "M50",
+            "M52",
+            "M52",
+            "M51",
+            "M50"
+        ]
+    },
+    {
+        "no_lantai": 100,
+        "nama_lokasi": "Istana Langit",
+        "is_boss": true,
+        "id_musuh": [
+            "BOSS_20",
+            "M52",
+            "M52",
+            "M50"
+        ]
+    }
+]
