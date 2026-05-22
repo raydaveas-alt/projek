@@ -17,6 +17,7 @@ from StrukturData.Tree import RaidNode
 from StrukturData.HashTable import HashTable
 from StrukturData.Tower.Combat import CircularLinkedList, jalankan_raid_kombat
 from StrukturData.Tower.MainTower import siapkan_menara
+from Algoritma.searching import menu_cari_hero
 
 ROOT_DIR = Path(__file__).resolve().parent
 json_path = ROOT_DIR / "data"
@@ -55,6 +56,7 @@ def proses_gacha(id_antrian):
         if hero_id not in barrack_aktif and hero_id not in graveyard and hero_id not in id_antrian:
             bintang = hero_data['star_level']
             pool_bintang[bintang].append(hero_id)
+
             
     if all(len(pool) == 0 for pool in pool_bintang.values()):
         print("\nGACHA GAGAL: Semua pahlawan di dunia ini sudah terpanggil atau telah gugur.")
@@ -185,6 +187,13 @@ def main():
                 
             if pilihan == "0":
                 navigasi.pop()
+        
+        # ==========================================
+        # LOGIKA MENU: CARI HERO (Sub-menu Barrack)
+        # ==========================================
+        elif layar_sekarang == "Cari Hero":
+            menu_cari_hero(barrack_aktif, Daftar_Hero)
+            navigasi.pop()
                 
 
         # ==========================================
